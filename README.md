@@ -1,4 +1,4 @@
-# supcik Scoop Bucket
+# Supcik Scoop Bucket
 
 A personal Scoop bucket containing custom manifests.
 
