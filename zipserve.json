@@ -1,0 +1,22 @@
+{
+    "version": "0.2.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/supcik/zipserve/releases/download/v0.2.5/zipserve_Windows_x86_64.zip",
+            "bin": [
+                "zipserve.exe"
+            ],
+            "hash": "b053b9c79a99b9e4d47324f772f598363f9a637450ad546c67825260060503bb"
+        },
+        "arm64": {
+            "url": "https://github.com/supcik/zipserve/releases/download/v0.2.5/zipserve_Windows_arm64.zip",
+            "bin": [
+                "zipserve.exe"
+            ],
+            "hash": "dc7f9573a559667384726e210491845a0308f89a7749c08cb704089fbd32fcf5"
+        }
+    },
+    "homepage": "https://github.com/supcik/zipserve",
+    "license": "MIT",
+    "description": "HTTP server that serves web content directly from ZIP archives"
+}
