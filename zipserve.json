@@ -1,19 +1,19 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/supcik/zipserve/releases/download/v0.3.3/zipserve_Windows_x86_64.zip",
+            "url": "https://github.com/supcik/zipserve/releases/download/v0.3.4/zipserve_Windows_x86_64.zip",
             "bin": [
                 "zipserve.exe"
             ],
-            "hash": "9fbd3fa90e87cce4e4093042a6c6eaefe3924fd0c4ff5d4134f5281999e20b7b"
+            "hash": "fc35760c09d07728c3d93b675e18367601d60a189e8b454dde830661655c8c7e"
         },
         "arm64": {
-            "url": "https://github.com/supcik/zipserve/releases/download/v0.3.3/zipserve_Windows_arm64.zip",
+            "url": "https://github.com/supcik/zipserve/releases/download/v0.3.4/zipserve_Windows_arm64.zip",
             "bin": [
                 "zipserve.exe"
             ],
-            "hash": "d4991f4ad4d645df6921e006e797990b8a7c9512969e755b1dd9a7689f340bb4"
+            "hash": "bdd466aeddf16858c4ab086093ccbc05a28e65e5029957d5c0c42ae65085399b"
         }
     },
     "homepage": "https://github.com/supcik/zipserve",
